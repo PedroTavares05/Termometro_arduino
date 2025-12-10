@@ -16,7 +16,7 @@ Este projeto consiste em um protótipo de termômetro digital desenvolvido em C+
 
 ## 🚀 Como testar
 O projeto foi validado via simulação. Você pode acessar o circuito interativo e o código fonte no Tinkercad através deste link:
-[COLOQUE AQUI O SEU LINK DO TINKERCAD]
+[ https://www.tinkercad.com/things/hVTTq0ZYOrK-glorious-inari-jarv?sharecode=rglM_jBHOhpczZJ8lHESrEHlKve_bNIzv3LLF8lc150 ]
 
 ## 📝 Código
 O código fonte completo (`.ino`) está disponível neste repositório.
